@@ -1,0 +1,22 @@
+-keep class com.firefly1126.permissionaspect.demo.AOPApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.firefly1126.permissionaspect.demo.MainActivity { <init>(); }
+-keep class com.firefly1126.permissionaspect.demo.PermissionActivity { <init>(); }
+-keep class com.firefly1126.permissionaspect.demo.FragmentActivity { <init>(); }
+-keep class com.firefly1126.permissionaspect.demo.BActivity { <init>(); }
+-keep class com.firefly1126.permissionaspect.demo.CActivity { <init>(); }
+-keep class com.firefly1126.permissionaspect.demo.KotlinActivity { <init>(); }
+-keep class com.firefly1126.permissionaspect.demo.MyService { <init>(); }
+-keep class com.hujiang.permissiondispatcher.ShadowPermissionActivity { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}
+-keep class com.android.tools.fd.** {
+    *;
+}
+-dontnote com.android.tools.fd.**,android.support.multidex.MultiDexExtractor

@@ -1,0 +1,65 @@
+-injars 'C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'D:\sdk\build-tools\23.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration 'C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class com.firefly1126.permissionaspect.demo.AOPApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.firefly1126.permissionaspect.demo.MainActivity {
+    <init>();
+}
+
+-keep class com.firefly1126.permissionaspect.demo.PermissionActivity {
+    <init>();
+}
+
+-keep class com.firefly1126.permissionaspect.demo.FragmentActivity {
+    <init>();
+}
+
+-keep class com.firefly1126.permissionaspect.demo.BActivity {
+    <init>();
+}
+
+-keep class com.firefly1126.permissionaspect.demo.CActivity {
+    <init>();
+}
+
+-keep class com.firefly1126.permissionaspect.demo.KotlinActivity {
+    <init>();
+}
+
+-keep class com.firefly1126.permissionaspect.demo.MyService {
+    <init>();
+}
+
+-keep class com.hujiang.permissiondispatcher.ShadowPermissionActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

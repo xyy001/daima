@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:2:11-58
+		INJECTED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		INJECTED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:9:22-70
+application
+ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:11:5-51:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.firefly1126.permissionaspect:permissionaspect:1.0.1] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.firefly1126.permissionaspect\permissionaspect\1.0.1\AndroidManifest.xml:12:5-13:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.hujiang.permissiondispatcher:permissiondispatcher:1.0.9] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.hujiang.permissiondispatcher\permissiondispatcher\1.0.9\AndroidManifest.xml:9:5-14:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:16:9-35
+	android:allowBackup
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:12:9-39
+activity#com.firefly1126.permissionaspect.demo.MainActivity
+ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.firefly1126.permissionaspect.demo.PermissionActivity
+ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:27:9-28:20
+	android:name
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:27:19-53
+activity#com.firefly1126.permissionaspect.demo.FragmentActivity
+ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:29:9-32:51
+	android:screenOrientation
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:32:13-49
+	android:exported
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:30:13-45
+activity#com.firefly1126.permissionaspect.demo.BActivity
+ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:33:9-37:46
+	android:screenOrientation
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:36:13-49
+	android:exported
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:35:13-37
+	android:theme
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:34:13-38
+activity#com.firefly1126.permissionaspect.demo.CActivity
+ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:38:9-42:46
+	android:screenOrientation
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:41:13-49
+	android:exported
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:40:13-37
+	android:theme
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:39:13-38
+activity#com.firefly1126.permissionaspect.demo.KotlinActivity
+ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:43:9-44:20
+	android:name
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:43:19-49
+service#com.firefly1126.permissionaspect.demo.MyService
+ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:46:9-50:19
+	android:enabled
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:48:13-35
+	android:exported
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml:47:13-38
+uses-sdk
+INJECTED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.firefly1126.permissionaspect:permissionaspect:1.0.1] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.firefly1126.permissionaspect\permissionaspect\1.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.hujiang.permissiondispatcher:permissiondispatcher:1.0.9] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.hujiang.permissiondispatcher\permissiondispatcher\1.0.9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v13:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\src\main\AndroidManifest.xml
+activity#com.hujiang.permissiondispatcher.ShadowPermissionActivity
+ADDED from [com.hujiang.permissiondispatcher:permissiondispatcher:1.0.9] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.hujiang.permissiondispatcher\permissiondispatcher\1.0.9\AndroidManifest.xml:10:9-13:20
+	android:theme
+		ADDED from [com.hujiang.permissiondispatcher:permissiondispatcher:1.0.9] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.hujiang.permissiondispatcher\permissiondispatcher\1.0.9\AndroidManifest.xml:12:13-53
+	android:name
+		ADDED from [com.hujiang.permissiondispatcher:permissiondispatcher:1.0.9] C:\Users\ligong\Desktop\android_permission_aspectjx-master\app\build\intermediates\exploded-aar\com.hujiang.permissiondispatcher\permissiondispatcher\1.0.9\AndroidManifest.xml:11:13-85
